@@ -1,0 +1,8 @@
+.idea
+.DS_Store
+.Spotlight
+thumbs.db
+*.3dsx
+*.smdh
+*.elf
+*.pyc
